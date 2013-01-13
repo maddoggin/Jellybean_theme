@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="string/mod_version">@string/mod_version</item>
+</resource-redirections>

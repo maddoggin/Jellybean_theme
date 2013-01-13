@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="style/Widget.Holo.TextView.ListSeparator">@style/Widget.Holo.TextView.ListSeparator</item>
+    <item name="drawable/ab_transparent_dark_holo">@drawable/ab_transparent_dark_holo</item>
+    <item name="drawable/background_holo_dark">@drawable/background_holo_dark</item>
+    <item name="drawable/default_wallpaper">@drawable/homescreen</item>
+    <item name="drawable/notification_bg_normal">@drawable/toggle_item_background</item>
+    <item name="drawable/notification_bg_low_normal">@drawable/toggle_item_background</item>
+    <item name="drawable/notification_template_icon_low_bg">@android:drawable/notification_template_icon_bg</item>
+    <item name="drawable/statusbar_background">@com.android.systemui:drawable/status_bar_bg_tile</item>
+    <item name="drawable/switch_bg_holo_dark">@drawable/switch_bg_holo_dark</item>
+    <item name="drawable/switch_thumb_activated_holo_dark">@drawable/switch_thumb_activated_holo_dark</item>
+    <item name="drawable/switch_thumb_holo_dark">@drawable/switch_thumb_holo_dark</item>
+    <item name="drawable/switch_thumb_disabled_holo_dark">@drawable/switch_thumb_disabled_holo_dark</item>
+    <item name="drawable/switch_thumb_pressed_holo_dark">@drawable/switch_thumb_pressed_holo_dark</item>
+    <item name="drawable/activated_background_holo_dark">@drawable/activated_background_holo_dark</item>
+    <item name="drawable/list_divider_holo_dark">@android:drawable/list_divider_holo_dark</item>
+</resource-redirections>

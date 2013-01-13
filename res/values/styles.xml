@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="JB" parent="@*android:style/Theme" />
+    <style name="TextAppearance.StatusBar.Battery" parent="@*android:style/TextAppearance.StatusBar.Icon">
+        <item name="android:textSize">15.0dip</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@*android:color/white</item>
+    </style>
+    <style name="Widget.Holo.TextView.ListSeparator" parent="@*android:style/Widget.Button.Transparent">
+        <item name="android:textColor">@*android:color/holo_blue_light</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/list_activated_jb</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+</resources>
